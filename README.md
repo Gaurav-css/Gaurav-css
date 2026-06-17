@@ -5,26 +5,45 @@
 
 <!-- Status badges -->
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-3fb950?style=flat-square&labelColor=161b22&color=3fb950" />
-  <img src="https://img.shields.io/badge/Based%20in-Bengaluru%2C%20India-58a6ff?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-ff9900?style=flat-square&labelColor=161b22&logo=amazon-aws&logoColor=ff9900" />
-  <img src="https://img.shields.io/badge/Experience-1.5%2B%20yrs%20Startup-a371f7?style=flat-square&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-238636?style=for-the-badge&labelColor=161b22" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Bengaluru%2C%20India-58a6ff?style=for-the-badge&logo=googlemaps&logoColor=58a6ff&labelColor=21262d&color=21262d" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=161b22" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/1.5%2B%20yrs%20Startup-a371f7?style=for-the-badge&labelColor=161b22" />
 </p>
 
 </div>
 
 ---
 
-```ts
-const gaurav = {
-  role      : "Full Stack Developer & AI Builder",
-  location  : "Bengaluru, India 🇮🇳",
-  education : "B.Tech Aeronautical Engineering · NMIT (2026)",
-  stack     : ["React", "Node.js", "TypeScript", "MongoDB", "LangChain"],
-  currently : "Shipping full-stack & AI-powered products",
-  lookingFor: "Full Stack / MERN Developer roles",
-};
-```
+<table>
+<tr>
+<td><b>🧑‍💻 Role</b></td>
+<td>Full Stack Developer & AI Builder</td>
+</tr>
+<tr>
+<td><b>📍 Location</b></td>
+<td>Bengaluru, India</td>
+</tr>
+<tr>
+<td><b>🎓 Education</b></td>
+<td>B.Tech Aeronautical Engineering · NMIT (2026)</td>
+</tr>
+<tr>
+<td><b>🛠 Stack</b></td>
+<td>React · Node.js · TypeScript · MongoDB · LangChain</td>
+</tr>
+<tr>
+<td><b>🚀 Currently</b></td>
+<td>Shipping full-stack & AI-powered products</td>
+</tr>
+<tr>
+<td><b>👀 Looking For</b></td>
+<td>Full Stack / MERN Developer roles</td>
+</tr>
+</table>
 
 ---
 
