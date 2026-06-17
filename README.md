@@ -11,7 +11,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=161b22" />
   &nbsp;
-  <img src="https://img.shields.io/badge/1.5%2B%20yrs%20Startup-a371f7?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/0.9%2B%20yrs%20Startup-a371f7?style=for-the-badge&labelColor=161b22" />
 </p>
 
 </div>
